@@ -40,3 +40,8 @@
 .read-the-docs {
   color: #888;
 }
+.todo-container, .todo-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
